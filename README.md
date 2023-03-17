@@ -1,2 +1,2 @@
 # iniciando-materializecss
-Aqui eu recriei o template inicial que o próprio materialize libera para aprender sobre esse framework
+Aqui eu recriei o template inicial que o próprio materialize libera para aprender sobre esse framework. Essa simples página está responsiva
